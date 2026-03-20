@@ -36,3 +36,5 @@ print(s.pop())
 print(s.pop())
 print("Display")
 s.display()
+
+print("superman")
